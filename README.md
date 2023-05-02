@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1>
-  Hi there, I'm <a href="https://germanogualberto.github.io">Germano</a> 👋
+  Hi there, I'm <a href="https://germanogualberto.com">Germano</a> 👋
 </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Germano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/germano-gualberto/)](https://www.linkedin.com/in/germano-gualberto/)
