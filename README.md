@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 🎓 BSc in Computer Science at Federal University of Campina Grande
 
+🎓 PostGraduation in Distributed Systems Architecture in progres at PUC - Minas
+
 🎯 I'm currently studying Full-Stack Development including CI/CD and Clouds
 
 
